@@ -164,4 +164,4 @@ Buffer to optimize.
 
 ## License
 
-MIT © [imagemin](https://github.com/imagemin)
+MIT © [Jih-Chi Lee](https://github.com/jihchi)
