@@ -1,4 +1,8 @@
-# imagemin-giflossy [![npm version](https://img.shields.io/npm/v/imagemin-giflossy.svg)](https://www.npmjs.com/package/imagemin-giflossy) [![npm downloads](https://img.shields.io/npm/dm/imagemin-giflossy.svg)](https://www.npmjs.com/package/giflossy) [![Build Status](http://img.shields.io/travis/jihchi/imagemin-giflossy.svg?style=flat)](https://travis-ci.org/jihchi/imagemin-giflossy) [![Build status](https://ci.appveyor.com/api/projects/status/hdus9imkfyrlh5ls?svg=true)](https://ci.appveyor.com/project/jihchi/imagemin-giflossy)
+# imagemin-giflossy
+[![npm version](https://img.shields.io/npm/v/imagemin-giflossy.svg)](https://www.npmjs.com/package/imagemin-giflossy)
+[![npm downloads](https://img.shields.io/npm/dm/imagemin-giflossy.svg)](https://www.npmjs.com/package/imagemin-giflossy)
+[![Build Status](http://img.shields.io/travis/jihchi/imagemin-giflossy.svg?style=flat)](https://travis-ci.org/jihchi/imagemin-giflossy)
+[![Build status](https://ci.appveyor.com/api/projects/status/hdus9imkfyrlh5ls?svg=true)](https://ci.appveyor.com/project/jihchi/imagemin-giflossy)
 
 > giflossy imagemin plugin
 
